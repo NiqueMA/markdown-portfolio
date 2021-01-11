@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Cuurent student seeking a __*Programming and Development*__ degree 
+Knowledge of **C#** as well as understanding the concepts of _Object Oriented Programming_
+I also enjoy practicing on my own.
