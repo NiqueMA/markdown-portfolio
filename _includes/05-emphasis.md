@@ -1,3 +1,3 @@
-Cuurent student seeking a __*Programming and Development*__ degree 
+Cuurent student seeking a __*Programming and Development*__ degree :books:
 Knowledge of **C#** as well as understanding the concepts of _Object Oriented Programming_
 I also enjoy practicing on my own.
