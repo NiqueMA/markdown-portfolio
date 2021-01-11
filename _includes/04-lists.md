@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Practicing code
+  - Codeway.io
+  - FrontEndMentor
+  - uDemy
+ - Riding a motorcycle
+ - Playing the Sims
